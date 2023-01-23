@@ -42,6 +42,7 @@ public class arrays {
             arr=input(arr);
             int find=sc.nextInt();
             System.out.println(calc(arr,find));
+            System.out.print("Hey");
 
 
         }
